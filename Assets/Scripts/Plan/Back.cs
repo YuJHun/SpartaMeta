@@ -9,6 +9,7 @@ using UnityEngine.SceneManagement;
         public void ChangeScene()
         {
             SceneManager.LoadScene("SampleScene");
+        //Git Test
         }
     }
 
